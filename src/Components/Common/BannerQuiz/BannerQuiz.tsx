@@ -8,13 +8,14 @@ interface IBannerQuizProps {
   nome: string;
   descricao: string;
   path: string;
+  colorText?: string
 }
 
-const BannerQuiz = ({ nome, descricao, path }: IBannerQuizProps) => {
+const BannerQuiz = ({ nome, descricao, path, colorText=Theme.white}: IBannerQuizProps) => {
   const navigate = useNavigate();
   return (
-    <Banner>
-      <h2>Quiz:{nome}</h2>
+    <Banner style={{color: colorText}}>
+      <h2>Quiz: {nome}</h2>
       <p>{descricao}</p>
       <ButtoAction
         color="black"
@@ -33,7 +34,6 @@ const Banner = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  color: ${Theme.white};
 
   > h2 {
     font-weight: bold;
@@ -46,6 +46,6 @@ const Banner = styled.div`
     font-weight: 500;
     font-size: 16px;
     line-height: 18px;
-    color: ${Theme.gray};
+    color: inherit;
   }
 `;

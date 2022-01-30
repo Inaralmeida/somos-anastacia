@@ -1,0 +1,1488 @@
+{
+  "relacionamento": [
+    {
+      "pergunta": "Você se sente insegura com seu/sua companheiro(a)",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "você se se sente aliviada quando seu/sua companheiro (a) está de bom humor",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "voce já foi privada de usar o seu celular?",
+      "tipo": "patrimonial",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ te faz sentir culpada por tudo que da errado?",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ desqualifica as suas conquistas?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te humilhou em publico",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te humilhou em casa",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ te priva de usar as roupas que você quer?",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ te proibe de sair?",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ te proibe de falar com outras pessoas?",
+      "tipo": "patrimonial",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ ja te acusou de traição indevidamente?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ ja expôs a sua vida intima sem a sua permissão?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te xingou?",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ tenta controlar o seu dinheiro?",
+      "tipo": "patrimonial",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já destruiu/danificou seus objetos pessoais com a inteção de te afetar?",
+      "tipo": "patrimonial",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te privou de bens, valores ou recursos econômicos?",
+      "tipo": "patrimonial",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te levou a realizar atos sexuais sem o seu consentimento ou vontade?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te obrigou a realizar atos sexuais que te causaram desconforto ou repulsa?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te impediu de usar méetodos contraceptivos?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Você se sente insegura com seu/sua companheiro(a)",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te obrigou/induziu a fazer um aborto?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já te feriu físicamente?",
+      "tipo": "Física",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já atirou objetos contra você?",
+      "tipo": "Física",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "El@ já causou lesões corporais?",
+      "tipo": "Física",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequencia",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "As vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Ja aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "nunca",
+          "pontuacao": 1
+        }
+      ]
+    }
+  ],
+  "trabalho": [
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho retiram a sua autonomia no ambiente de trabalho?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te ameaçam de violência física?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho não lhe transmitem as informações úteis para a realização de tarefas?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho praticam gestos como suspiros ou olhares desdenhosos diante de você?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te empurram, fecham a porta na sua cara ou similares?",
+      "tipo": "físico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho espalham rumores e/ou inverdades sobre você e sua vida pessoal?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho somente falam com você aos gritos?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho criticam seu trabalho de forma injusta ou exagerada?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas te atribuem problemas psicológicos (afirmações de que você é doente mental, 'louca')?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas recusam ter contato com você, não falam ou até mesmo não olham para você?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas te interrompem constantemente?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te privam de acesso aos instrumentos de trabalho?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho zombam sobre seus aspectos físicos?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te seguem na rua ou te espionam em seu domicílio?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho ignoram sua presença, dirigindo-se apenas aos outros?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho fazem estragos em seus bens de maneira proposital?",
+      "tipo": "patrimonial",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho atribuem proposital e sistematicamente tarefas superiores às suas competências?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho proíbem seus colegas de ter qualquer tipo de contato com você?",
+      "tipo": "psicológico",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho fazem gestos ou propostas sexuais a você?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho ignoram ou negligenciam seus problemas de saúde?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te pressionam para que você não obtenha seus direitos como férias, horários, prêmios e/ou agem de modo a impedir que você obtenha promoção?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho lhe atribuem, contra a sua vontade, trabalhos humilhantes?",
+      "tipo": "psicologica",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te advertem em razão de atestados médicos ou de reclamação de direitos?",
+      "tipo": "moral",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te fazem promessas de tratamento diferenciado em troca de favores sexuais?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te repreendem no caso de recusa contra as investidas sexuais?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho fazem comentários maliciosos sobre a sua aparência física e vestimentas?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te dizem frases ofensivas ou de duplo sentido?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te expõe a situações de cunho sexual humilhantes ou embaraçosas?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te fazem perguntas indiscretas sobre a vida privada?",
+      "tipo": "",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te fazem elogios atrevidos?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te fazem convites para almoços e jantares com segundas intenções?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te dirigem olhares e insinuações sexuais inconvenientes e ofensivas?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    },
+    {
+      "pergunta": "Seus superiores e/ou os demais colegas de trabalho te enviam material pornográfico através de mensagens eletrônicas?",
+      "tipo": "sexual",
+      "respostas": [
+        {
+          "opcao": "Sempre",
+          "pontuacao": 5
+        },
+        {
+          "opcao": "Com frequência",
+          "pontuacao": 4
+        },
+        {
+          "opcao": "Às vezes",
+          "pontuacao": 3
+        },
+        {
+          "opcao": "Já aconteceu",
+          "pontuacao": 2
+        },
+        {
+          "opcao": "Nunca",
+          "pontuacao": 1
+        }
+      ]
+    }
+  ]
+}
