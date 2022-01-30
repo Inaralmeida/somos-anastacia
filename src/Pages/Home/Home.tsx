@@ -54,7 +54,7 @@ const Home = () => {
           <ButtoAction
             color="pink"
             text="Denunciar"
-            onclick={() => navigate("/denuncia")}
+            onclick={() => navigate("/denuncias")}
           />
         </div>
 

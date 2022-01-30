@@ -33,7 +33,7 @@ const Header = ({ page }: IHeaderProps) => {
   ];
   return (
     <S.Container>
-      <h1><img src="/assets/img/logo-texto.png" alt="SOMOS ANASTÁCIA" /></h1>
+      <h1 onClick={()=> navigate('/')}><img src="/assets/img/logo-texto.png" alt="SOMOS ANASTÁCIA" /></h1>
 
       <nav>
         {headers.map((head, i) => {
