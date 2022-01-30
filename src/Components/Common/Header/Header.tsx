@@ -12,7 +12,7 @@ const Header = ({ page }: IHeaderProps) => {
   const headers = [
     {
       name: "Sobre",
-      path: "/sobre",
+      path: "/",
     },
     {
       name: "Quiz",
@@ -20,15 +20,15 @@ const Header = ({ page }: IHeaderProps) => {
     },
     {
       name: "Rede de Apoio",
-      path: "/rede-de-apoio",
+      path: "/",
     },
     {
       name: "Ajude a iniciativa",
-      path: "/ajude-a-iniciativa",
+      path: "/",
     },
     {
       name: "Contato",
-      path: "/contato",
+      path: "/",
     },
   ];
   return (
